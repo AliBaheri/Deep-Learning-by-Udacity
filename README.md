@@ -7,5 +7,5 @@ This repo contains material related to Udacity's Deep Learning Nanodegree Founda
 Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhoucke.html) from Google Brain.
 
 ### * Logistic Regression, Stochastic Optimization 
-* [notMNIST - Deep Learning with Tensorflow](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/1_notmnist.ipynb). 
+* Assignment 1: [notMNIST - Deep Learning with Tensorflow](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/1_notmnist.ipynb). 
 
