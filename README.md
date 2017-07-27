@@ -16,5 +16,5 @@ Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanh
 * [Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout, to prevent overfitting](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/3_Regularization.ipynb).
   
 ### - Convolutional Networks
-* [Implemented a convolutional neural network](https://github.com/ttungl/Deep-Learning-Google/blob/master/Lesson1/4_Convolutional_Neural_Networks.ipynb).
+* [Implemented a convolutional neural network](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/4_convolutions.ipynb).
 
