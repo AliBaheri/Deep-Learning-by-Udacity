@@ -17,3 +17,4 @@ Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanh
   
 ### - Convolutional Networks
 * [Implemented a convolutional neural network](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/4_convolutions.ipynb).
+[__]
