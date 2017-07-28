@@ -13,8 +13,8 @@ Instructor: [Dr. Vincent Vanhoucke](https://research.google.com/pubs/VincentVanh
 * [Implemented a fully connected network using SGD and ReLUs with Tensorflow](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/2_fullyconnected.ipynb)
               
 ### - Regularization
-* [Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout, to prevent overfitting](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/3_regularization.ipynb).
+* [Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/3_regularization.ipynb).
   
 ### - Convolutional Networks
 * [Implemented a convolutional neural network](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/4_convolutions.ipynb).
-[__]
+
