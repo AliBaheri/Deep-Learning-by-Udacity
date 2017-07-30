@@ -9,7 +9,7 @@ Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhouck
 ### - Logistic Regression, Stochastic Optimization 
 * Assignment 1: [notMNIST - Deep Learning with Tensorflow](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/1_notmnist.ipynb). 
 
-### - Deep Neural Networks
+### - Deep Neural Network
 * Assignment 2:[Implemented a fully connected network using SGD and ReLUs with Tensorflow](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/2_fullyconnected.ipynb)
               
 ### - Regularization
