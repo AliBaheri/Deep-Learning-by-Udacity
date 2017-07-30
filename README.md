@@ -15,6 +15,6 @@ Instructor: [Vincent Vanhoucke](https://research.google.com/pubs/VincentVanhouck
 ### - Regularization
 * Assignment 3:[Implemented a multi-layer neural network using ReLUs, L2-regularization, and dropout](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/3_regularization.ipynb).
   
-### - Convolutional Neural Networks
+### - Convolutional Neural Network
 * Assignment 4: [Implemented a convolutional neural network](https://github.com/AliBaheri/Deep-Learning-by-Udacity/blob/master/4_convolutions.ipynb).
 
